@@ -6,9 +6,7 @@
 
 添加新代码
 
-public static void main (String args[]){
-	System.out.println("123");
-}
+第四次修改，删除主方法，用这一行代替
 
 
 第三次添加代码
